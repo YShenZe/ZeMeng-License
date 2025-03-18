@@ -1,6 +1,13 @@
 # ZeMeng-License
 A free software open source protocol that is cleaner than MIT
 
+How to use
+```text
+ZML-2.0
+```
+
+# License
+
 ```TEXT
 ZML (ZeMeng License)
 Second Edition - March 15, 2025
@@ -53,3 +60,8 @@ Terms and Conditions
 
 (Note: Replace placeholders [Name/Organization Name] and [Date] with actual values.)
 ```
+
+# Important
+```text
+The final interpretation of the agreement belongs to the designer of the agreement
+``
