@@ -64,4 +64,4 @@ Terms and Conditions
 # Important
 ```text
 The final interpretation of the agreement belongs to the designer of the agreement
-``
+```
